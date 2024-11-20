@@ -1,0 +1,46 @@
+{
+    "users": {
+        "1": {
+            "user_name": "Rajesh Sharma",
+            "address": "MG Road, Bengaluru",
+            "phone": "9888776655",
+            "next_transaction_id": 4
+        },
+        "2": {
+            "user_name": "Priya Singh",
+            "address": "Connaught Place, Delhi",
+            "phone": "9123456789",
+            "next_transaction_id": 1
+        }
+    },
+    "transactions": {
+        "1": [
+            {
+                "transaction_id": 1,
+                "transaction_type": "deposit",
+                "amount": 5000,
+                "timestamp": "12-11-24 14:32:01"
+            },
+            {
+                "transaction_id": 1,
+                "transaction_type": "deposit",
+                "amount": 10000,
+                "timestamp": "11-11-24 20:32:20"
+            },
+            {
+                "transaction_id": 2,
+                "transaction_type": "deposit",
+                "amount": 5000,
+                "timestamp": "11-11-24 20:32:20"
+            },
+            {
+                "transaction_id": 3,
+                "transaction_type": "withdraw",
+                "amount": -2000,
+                "timestamp": "11-11-24 20:32:20"
+            }
+        ],
+        "2": []
+    },
+    "next_user_id": 3
+}

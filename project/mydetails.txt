@@ -1,0 +1,16 @@
+
+
+
+                        MULTI_USER FINANACES TRACKER
+
+- In this project user can perform CRUD operations and transactions in user account ,
+- JSON is used for storing data
+
+
+My name is BHUPENDRA KUMAR
+My GitHub UserName - Dbhupendra70
+   edX usernames-  BhupendraKumara9b8
+
+I am from INDIA
+
+I recording this video on 12-11-2024
