@@ -15,6 +15,8 @@
 - **Financial Transactions**: Deposit and withdraw funds, with a transaction log.
 - **Balance Calculation**: Automatically calculate balance based on transactions.
 - **Transaction History**: View detailed transaction history.
+- ![image](https://github.com/user-attachments/assets/623ac553-1a0d-4b68-bb59-50710c542dbd)
+
 
 ## Concepts Used:
 
