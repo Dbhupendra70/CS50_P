@@ -25,8 +25,11 @@
 ## How It Works:
 
 1. **Main Menu**: Access options to list, add, update, or delete users, or exit.
-2. **User Menu**: Perform transactions (deposit/withdraw), view balance and transaction history.
-3. **Persistent Data**: All data is saved to `project_data.json`.
+2. - ![image](https://github.com/user-attachments/assets/cfbfd8d2-1ffc-4c0c-9671-86abc01f7f8f)
+3. **User Menu**: Perform transactions (deposit/withdraw), view balance and transaction history.
+4. ![image](https://github.com/user-attachments/assets/93e7e94a-fa72-4f3a-b945-3d28b416c813)
+5. **Persistent Data**: All data is saved to `project_data.json`.
+6. 
 
 ## Requirements:
 
